@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_react_ts=self.webpackChunkwebpack_react_ts||[]).push([[103],{3114:function(e,t,c){c.r(t);var a=c(6540);t.default=function(){return a.createElement("h3",null,"Prefetch Demo")}}}]);
